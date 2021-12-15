@@ -21,6 +21,10 @@ We set our new variables and values, check the **[file](https://github.com/DimKa
 ![shot1](Images/Shot1.png)	 
 
 
+2.	Crosstabs, Chi-Squares: **[report](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Reports/Chi-Square.spv)**
+
+![shot2](Images/Shot2.png)
+
 
 
 
