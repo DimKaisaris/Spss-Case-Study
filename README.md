@@ -14,6 +14,10 @@ the **[Data](https://github.com/DimKaisaris/Spss-Case-Study/tree/main/Raw%20File
 
 ## Analysis Phase
 Check the **[File](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Processed%20Files/Analysis%20Phase.docx)** to see all the tasks completed.
+We set our new variables and values, check the [file](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Processed%20Files/Case3.sav)** which is ready for analysis.
+
+
+
 
 
 
