@@ -25,6 +25,9 @@ We set our new variables and values, check the **[file](https://github.com/DimKa
 
 ![shot2](Images/Shot2.png)
 
+3.	Explore, Normality Test: **[report](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Reports/Descriptives-Normality%20Test.spv)**
+
+![shot3](Images/Shot3.png)
 
 
 
