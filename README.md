@@ -45,6 +45,8 @@ We set our new variables and values, check the **[file](https://github.com/DimKa
 
 ![shot7](Images/Shot7.png)
 
+![shot9](Images/Shot9.png)
+
 8.	Linear Regression: **[report](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Reports/Linear%20Regression.spv)**
 
 ![shot8](Images/Shot8.png)
