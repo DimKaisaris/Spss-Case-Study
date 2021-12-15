@@ -1,6 +1,7 @@
 # Spss-Case-Study
 
 ## Project overview
+Two teaching methods were used in a group of students. We got our data and we are ready!
 - Teaching Methods Comparison
 - Various Reports
 
