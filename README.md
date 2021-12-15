@@ -33,6 +33,10 @@ We set our new variables and values, check the **[file](https://github.com/DimKa
 
 ![shot4](Images/Shot4.png)
 
+5.	Anova: **[report](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Reports/Anova%2C%20Grade%20After-Educ.spv)**
+
+![shot5](Images/Shot5.png)
+
 
 
 
