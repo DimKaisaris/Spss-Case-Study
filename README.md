@@ -29,5 +29,10 @@ We set our new variables and values, check the **[file](https://github.com/DimKa
 
 ![shot3](Images/Shot3.png)
 
+4.	T-Test, Independent Samples: **[report](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Reports/T-Test%2C%20Independent%20Samples%20Test.spv)**
+
+![shot4](Images/Shot4.png)
+
+
 
 
