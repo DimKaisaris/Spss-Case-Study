@@ -37,6 +37,11 @@ We set our new variables and values, check the **[file](https://github.com/DimKa
 
 ![shot5](Images/Shot5.png)
 
+6.	Correlation-Bivariate: **[report](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Reports/Correlations.spv)**
+
+![shot6](Images/Shot6.png)
+
+
 
 
 
