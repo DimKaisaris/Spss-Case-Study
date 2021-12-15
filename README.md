@@ -41,6 +41,10 @@ We set our new variables and values, check the **[file](https://github.com/DimKa
 
 ![shot6](Images/Shot6.png)
 
+7.	Graphs: **[report](https://github.com/DimKaisaris/Spss-Case-Study/blob/main/Reports/Graphs.spv)**
+
+![shot7](Images/Shot7.png)
+
 
 
 
